@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cd /student/home/nbs-challenge-3/
+
+sh pytest
